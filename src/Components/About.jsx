@@ -39,7 +39,7 @@ const skillsList = [
 /**
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
- * about you on a professional level.
+ * about you on a professional level. ok
  */
 const detailOrQuote =
   "I want to be capable programmer"
